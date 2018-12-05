@@ -1,0 +1,9 @@
+/notMNIST_large
+
+/notMNIST_small
+/.ipynb_checkpoints
+notMNIST_small.tar.gz
+notMNIST_large.tar.gz
+notMNIST.pickle
+Dockerfile
+README.md
